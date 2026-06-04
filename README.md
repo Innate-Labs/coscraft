@@ -46,6 +46,18 @@ CosCraft 是一款面向 **Cosplay 爱好者与手作娘**的智能辅助工具�
 
 CosCraft 将 AI 技术与 Cos 文化深度结合，让每一件还原服装的诞生变得**更高效、更精准**。
 
+
+
+<br/>
+
+## 🎬 产品截图
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="CosCraft 首页" width="100%" />
+  <br/>
+  <sub><b>专为 Cos 服手工制作者打造的 AI 参考工具</b></sub>
+</div>
+
 <br/>
 
 ## 🪐 立即体验
