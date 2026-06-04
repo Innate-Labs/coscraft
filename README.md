@@ -51,7 +51,7 @@ CosCraft 将 AI 技术与 Cos 文化深度结合，让每一件还原服装的�
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="CosCraft 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="CosCraft 首页" width="100%" />
   <br/>
   <sub><b>专为 Cos 服手工制作者打造的 AI 参考工具</b></sub>
 </div>
